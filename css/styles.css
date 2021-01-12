@@ -1,0 +1,13 @@
+body {
+	margin: 0;
+}
+
+canvas {
+	border: 1px solid black;
+	width: 590px;
+	height: 590px;
+}
+p{
+	margin-left: 470px;
+}
+/*Olena Polishchuk january 2021*/
